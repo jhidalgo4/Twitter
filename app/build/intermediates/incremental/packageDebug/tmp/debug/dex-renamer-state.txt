@@ -1,0 +1,7 @@
+#Sat Oct 17 01:27:59 MDT 2020
+base.0=/Users/joaquin/gitHub/CodePath/week4/TwitterPt2/Twitter/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/joaquin/gitHub/CodePath/week4/TwitterPt2/Twitter/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
