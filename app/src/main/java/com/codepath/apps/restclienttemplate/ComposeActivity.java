@@ -89,6 +89,7 @@ public class ComposeActivity extends AppCompatActivity {
                             Intent intent = new Intent();
                             intent.putExtra("tweet", Parcels.wrap(tweet) );
                             setResult(RESULT_OK, intent);
+                            finish(); //close activity
 
                         } catch (JSONException e) {
                             e.printStackTrace();
